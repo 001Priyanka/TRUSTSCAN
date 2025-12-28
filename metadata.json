@@ -1,0 +1,5 @@
+{
+  "name": "TrustScan: Early Breakout Detection",
+  "description": "A hackathon MVP for retail traders that uses simple logic to detect stock breakouts and stores the alerts on a simulated Ethereum blockchain for immutable trust and transparency.",
+  "requestFramePermissions": []
+}
